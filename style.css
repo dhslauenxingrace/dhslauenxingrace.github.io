@@ -1,26 +1,20 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-body {
-    background-color: lightblue;
+h1{
+
+font-family:"Times New Roman", Times, serif
+color:#0040ff
 }
 
-h1 {
-    color: blue;
-    text-align: center;
+h2{
+
+font-family:"Arial Black", Gadget, sans-serif
+color:#00ff00
 }
 
-p {
-    font-family: Bahnshrift;
-    font-size: 20px;
+body{
+
+background-image: url("https://png.pngtree.com/thumb_back/fh260/back_pic/00/15/30/4656e81f6dc57c5.jpg");
 }
-</style>
-</head>
-<body>
 
-<h1>My First CSS Example</h1>
-<p>This is a paragraph.</p>
 
-</body>
-</html>
+
+
